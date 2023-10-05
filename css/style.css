@@ -13,7 +13,7 @@ nav {
     padding: 1%
 }
 
-ul { 
+ul li { 
     width: 50%;
     margin-left: auto;
 }
@@ -34,9 +34,9 @@ ul {
 
 footer {
     background-color: 373738;
-    padding: 30px;
+    padding: 25px;
     ul {
-        display: inline;
+        display: inline-block;
         vertical-align: top;
         padding: 1%;
     }
